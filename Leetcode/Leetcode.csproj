@@ -9,8 +9,16 @@
 
   <ItemGroup>
     <None Remove="ContainsDuplicate\" />
+    <None Remove="ContiguousSubArray\" />
+    <None Remove="Sum\" />
+    <None Remove="Merge\" />
+    <None Remove="StockBuySell\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ContainsDuplicate\" />
+    <Folder Include="ContiguousSubArray\" />
+    <Folder Include="Sum\" />
+    <Folder Include="Merge\" />
+    <Folder Include="StockBuySell\" />
   </ItemGroup>
 </Project>

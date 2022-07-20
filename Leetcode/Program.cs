@@ -1,7 +1,3 @@
-﻿using Leetcode.ContainsDuplicate;
+﻿using Leetcode.StockBuySell;
 
-// Console.WriteLine(ArrayContainsDuplicate.Invoke(new int[] { 1, 2, 3, 1 }));
-
-// Console.WriteLine(ArrayContainsDuplicateII.Invoke(new int[] { 1, 0, 1, 1 }, 1));
-
-Console.WriteLine(ArrayContainsDuplicateIII.Invoke(new int[] { int.MinValue, int.MaxValue }, 1, 1));
+Console.WriteLine(BuySellStockI.MaxProfit(new int[] { 7, 6, 4, 3, 1 }));
