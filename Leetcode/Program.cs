@@ -1,3 +1,3 @@
-﻿using Leetcode.StockBuySell;
+﻿using Leetcode.Miscellaneous;
 
-Console.WriteLine(BuySellStockI.MaxProfit(new int[] { 7, 6, 4, 3, 1 }));
+PascalsTriangle.Generate(5);

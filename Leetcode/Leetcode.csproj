@@ -13,6 +13,8 @@
     <None Remove="Sum\" />
     <None Remove="Merge\" />
     <None Remove="StockBuySell\" />
+    <None Remove="Matrix\" />
+    <None Remove="Miscellaneous\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ContainsDuplicate\" />
@@ -20,5 +22,7 @@
     <Folder Include="Sum\" />
     <Folder Include="Merge\" />
     <Folder Include="StockBuySell\" />
+    <Folder Include="Matrix\" />
+    <Folder Include="Miscellaneous\" />
   </ItemGroup>
 </Project>
