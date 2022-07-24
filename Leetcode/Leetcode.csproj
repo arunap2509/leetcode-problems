@@ -15,6 +15,8 @@
     <None Remove="StockBuySell\" />
     <None Remove="Matrix\" />
     <None Remove="Miscellaneous\" />
+    <None Remove="String\" />
+    <None Remove="LinkedList\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ContainsDuplicate\" />
@@ -24,5 +26,7 @@
     <Folder Include="StockBuySell\" />
     <Folder Include="Matrix\" />
     <Folder Include="Miscellaneous\" />
+    <Folder Include="String\" />
+    <Folder Include="LinkedList\" />
   </ItemGroup>
 </Project>
