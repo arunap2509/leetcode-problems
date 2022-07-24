@@ -17,6 +17,7 @@
     <None Remove="Miscellaneous\" />
     <None Remove="String\" />
     <None Remove="LinkedList\" />
+    <None Remove="BitManipulation\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ContainsDuplicate\" />
@@ -28,5 +29,6 @@
     <Folder Include="Miscellaneous\" />
     <Folder Include="String\" />
     <Folder Include="LinkedList\" />
+    <Folder Include="BitManipulation\" />
   </ItemGroup>
 </Project>
