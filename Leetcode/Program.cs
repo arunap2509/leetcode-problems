@@ -1,8 +1,9 @@
-﻿using Leetcode.Matrix;
+﻿using Leetcode.Stack;
 
-Search2DMatrix.Solution(new int[][]
-{
-    new int [] {1,3,5,7},
-    new int [] {10,11,16,20},
-    new int [] { 23, 30, 34, 60 }
-}, 34);
+MyQueue queue = new();
+
+queue.Push(1);
+queue.Push(2);
+Console.WriteLine(queue.Peek());
+Console.WriteLine(queue.Pop());
+Console.WriteLine(queue.Empty());
