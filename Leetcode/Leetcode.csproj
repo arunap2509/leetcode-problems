@@ -19,6 +19,7 @@
     <None Remove="LinkedList\" />
     <None Remove="BitManipulation\" />
     <None Remove="Stack\" />
+    <None Remove="Tree\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ContainsDuplicate\" />
@@ -32,5 +33,6 @@
     <Folder Include="LinkedList\" />
     <Folder Include="BitManipulation\" />
     <Folder Include="Stack\" />
+    <Folder Include="Tree\" />
   </ItemGroup>
 </Project>
